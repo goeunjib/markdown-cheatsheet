@@ -1,8 +1,7 @@
-Markdown Cheatsheet<a name="TOP"></a>
+*Markdown Cheatsheet - 고은지*
 ===================
 
-- - - - 
-# Heading 1 #
+# 제 1제목 #
 
     Markup :  # Heading 1 #
 
